@@ -19,6 +19,7 @@ Cooking duration: 45 minutes for marinating and 30 minutes for cooking.
 * ½ teaspoon garlic paste
 * 1½ teaspoon ginger paste
 * a little bit of chilly powder
+* cilantro for garnish
 
 ## Procedure
 1. Marinate the chicken - clean the chicken and cut into small pieces. Add all the marinade ingredients and mix well. Set aside for 45 minutes to let flavors seep in.
