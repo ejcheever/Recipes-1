@@ -23,7 +23,7 @@ Cooking duration: 45 minutes for marinating and 30 minutes for cooking.
 ## Procedure
 1. Marinate the chicken - clean the chicken and cut into small pieces. Add all the marinade ingredients and mix well. Set aside for 45 minutes to let flavors seep in.
 2. Chop the onions into small pieces and fry on a medium heat.
-3. Add the diced tomatoes, ginger and garlic.
+3. Add the diced tomatoes, ginger and garlic. Stir.
 4. After the onions turn golden brown add the marinated chicken.
 5. When the chicken in almost done (95%) add the spice powder.
 6. Cook until the meat is tender.
